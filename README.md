@@ -6,15 +6,19 @@ A modern web application for documenting and sharing your travel experiences thr
 
 Dashboard
 
-Show Image
+![Alt Text](https://raw.githubusercontent.com/Piku6499/Travel_Story_App/main/priya_dashboard.png)
+
 
 Beautifully organized travel stories with location tags
-Interactive cards featuring stories from 
+Interactive cards featuring stories from different travel tours
 Like/favorite functionality for saving memorable stories
 Clean, intuitive interface with easy navigation
 
-Authentication Screens
-Show Image
+Authentication Screens-
+1. Login Page.
+    ![Alt Text](https://raw.githubusercontent.com/Piku6499/Travel_Story_App/main/login.png)
+2. SignUp Page
+   ![Alt Text](https://raw.githubusercontent.com/Piku6499/Travel_Story_App/main/Sign up.png)
 
 Modern, user-friendly signup and login interfaces
 Stunning travel imagery that inspires adventure
